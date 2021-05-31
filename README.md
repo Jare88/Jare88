@@ -34,6 +34,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jare88)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jare88&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jare88)]
-  <figure><embed src="https://wakatime.com/share/@Jare88/bfe0212a-64aa-4b7a-8133-6ada7e0f3332.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Jare88/bfe0212a-64aa-4b7a-8133-6ada7e0f3332.svg"></embed></figure>
