@@ -32,7 +32,4 @@
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jare88)]
-<figure><embed src="https://wakatime.com/share/@Jare88/bfe0212a-64aa-4b7a-8133-6ada7e0f3332.svg"></embed></figure>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jare88/ff7d643b-a49e-4179-a103-186063a491b6.png" /></a>
+<figure><embed src="https://wakatime.com/share/@Jare88/57fe960d-236d-4069-92fe-e5b0aa60f401.svg"></embed></figure>
