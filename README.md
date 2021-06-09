@@ -29,7 +29,4 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/Jare88'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<figure><embed src="https://wakatime.com/share/@Jare88/57fe960d-236d-4069-92fe-e5b0aa60f401.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Jare88/95178818-703c-4efd-bf04-fb426ea48799.svg"></embed></figure>
