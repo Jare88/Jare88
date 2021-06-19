@@ -28,3 +28,6 @@
 
 <figure><embed src="https://wakatime.com/share/@Jare88/719bfd81-1012-459c-9904-489073aaa2d1.svg"></embed></figure>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jare88&hide_border=true&theme=vue&title_color=#2d00f7" />
+</a>
