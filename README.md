@@ -31,4 +31,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jare88&hide_border=true&theme=vue&title_color=#2d00f7" />
 </a>
-.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jare88)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jare88&layout=compact)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jare88)]
