@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jare88&hide_border=true&theme=vue&title_color=#2d00f7" />
 </a>
 
-
-
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1492?logoColor=dark%26project=%26recentMS=2592000000%26showProject=false" />
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jare88)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jare88&layout=compact)]
 
